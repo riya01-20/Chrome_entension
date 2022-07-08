@@ -1,0 +1,32 @@
+#color
+{
+    cursor: pointer;
+   /* background-color: rgb(245, 211, 217);*/
+    border-radius: 3px;
+}
+
+.btn:hover
+{
+    background-color:rgb(240, 50, 50);
+    color: rgb(247, 243, 243);
+    border: 2px solid black;
+}
+.btn 
+{
+    background-color: #f57070; /* Green */
+    border: 2px solid rgb(7, 0, 17);
+    color: rgb(245, 241, 241);
+    border-radius: 4px;
+    padding: 6px;
+    font-size: 13px;
+    margin: 2px 2px;
+  }
+/*.btn
+{
+  background-color: #dd8de9;
+  padding: 6px;
+  border-radius: 5px;
+  color: rgb(223, 217, 217);
+  font-size: 14px;
+}
+*/
